@@ -31,12 +31,12 @@ Mock Data: The system utilizes mock data for demonstration purposes.
 Optional Features: The calendar view provides an alternative perspective on order management.
 
 
-![image](https://github.com/AnkitaT721/ERP-System-ENTNT/assets/127901974/12ea0e50-1861-415d-9ac5-b4de40118452)
+![alt text](image.png)
 
-![image](https://github.com/AnkitaT721/ERP-System-ENTNT/assets/127901974/9b2e1099-cebb-46d6-94cf-95345ffd1ad4)
+![alt text](image-1.png)
 
-![image](https://github.com/AnkitaT721/ERP-System-ENTNT/assets/127901974/c563c154-295e-4ca3-8b26-8cfca71e504b)
+![alt text](image-2.png)
 
-![image](https://github.com/AnkitaT721/ERP-System-ENTNT/assets/127901974/ec6ee0b8-201c-407c-bc34-82ca5869e807)
+![alt text](image-3.png)
 
-![image](https://github.com/AnkitaT721/ERP-System-ENTNT/assets/127901974/cd963020-08ff-46d8-81c8-c4f9ed7e7462)
+![alt text](image-4.png)
