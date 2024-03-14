@@ -4,6 +4,9 @@ import "./Dashboard.css";
 
 const Dashboard = () => {
   const products = JSON.parse(localStorage.getItem("products"));
+
+  const totalProducts = products ? products.length : 0;
+
   return (
     <>
       <div className="dashboard">
@@ -11,7 +14,7 @@ const Dashboard = () => {
         <div className="metrics">
           <div className="metric">
             <h3>Total Products</h3>
-            <p>{products.length}</p>
+            <p>{totalProducts}</p>
           </div>
           <div className="metric">
             <h3>Total Orders</h3>
